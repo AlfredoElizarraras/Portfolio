@@ -1,20 +1,28 @@
 /* #region base */
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
 /* #endregion base */
 
 /* #region layout */
+.right-panel {
+  background-color: aqua;
+}
 
-/* #region nav */
-/* #endregion nav */
-
-/* #region main */
-/* #endregion main */
-
-/* #region footer */
-/* #endregion footer */
-
+.left-panel {
+  background-color: chartreuse;
+}
 /* #endregion layout */
 
 /* #region modules */
+.full-percent-height {
+  height: 100%;
+}
+.full-percent-width {
+  width: 100%;
+}
 /* #endregion modules */
 
 /* #region media queries */
