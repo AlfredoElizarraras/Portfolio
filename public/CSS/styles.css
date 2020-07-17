@@ -31,52 +31,52 @@ a:hover {
 
 /* #region newsweek */
 .newsweek-image {
-  background-image: url("/public/assets/Newsweek_clone.png");
+  background-image: url("/assets/Newsweek_clone.png");
 }
 .newsweek-image_1 {
-  background-image: url("/public/assets/Newsweek_clone_1.png");
+  background-image: url("/assets/Newsweek_clone_1.png");
 }
 .newsweek-image_2 {
-  background-image: url("/public/assets/Newsweek_clone_2.png");
+  background-image: url("/assets/Newsweek_clone_2.png");
 }
 .newsweek-image_3 {
-  background-image: url("/public/assets/Newsweek_clone_3.png");
+  background-image: url("/assets/Newsweek_clone_3.png");
 }
 /* #endregion newsweek */
 
 /* #region sneakers shop */
 .sneakersShop-image {
-  background-image: url("/public/assets/sneakers-shop.png");
+  background-image: url("/assets/sneakers-shop.png");
 }
 .sneakersShop-image_1 {
-  background-image: url("/public/assets/sneakers-shop_1.png");
+  background-image: url("/assets/sneakers-shop_1.png");
 }
 .sneakersShop-image_2 {
-  background-image: url("/public/assets/sneakers-shop_2.png");
+  background-image: url("/assets/sneakers-shop_2.png");
 }
 /* #endregion sneakers shop */
 
 /* #region stayin-touch */
 .stayinTouch-image {
-  background-image: url("/public/assets/stayin-touch.png");
+  background-image: url("/assets/stayin-touch.png");
 }
 .stayinTouch-image_1 {
-  background-image: url("/public/assets/stayin-touch_1.png");
+  background-image: url("/assets/stayin-touch_1.png");
 }
 .stayinTouch-image_2 {
-  background-image: url("/public/assets/stayin-touch_2.png");
+  background-image: url("/assets/stayin-touch_2.png");
 }
 /* #endregion stayin-touch */
 
 /* #region drinks collector */
 .drinksCollector-image {
-  background-image: url("/public/assets/drinks-collector.png");
+  background-image: url("/assets/drinks-collector.png");
 }
 .drinksCollector-image_1 {
-  background-image: url("/public/assets/drinks-collector_1.png");
+  background-image: url("/assets/drinks-collector_1.png");
 }
 .drinksCollector-image_2 {
-  background-image: url("/public/assets/drinks-collector_2.png");
+  background-image: url("/assets/drinks-collector_2.png");
 }
 /* #endregion drinks collector */
 
