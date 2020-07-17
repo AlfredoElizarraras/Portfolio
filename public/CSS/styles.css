@@ -27,6 +27,9 @@ a:hover {
   height: 100%;
   width: 100%;
 }
+/* #region projects images */
+
+/* #region newsweek */
 .newsweek-image {
   background-image: url("/public/assets/Newsweek_clone.png");
 }
@@ -39,6 +42,9 @@ a:hover {
 .newsweek-image_3 {
   background-image: url("/public/assets/Newsweek_clone_3.png");
 }
+/* #endregion newsweek */
+
+/* #region sneakers shop */
 .sneakersShop-image {
   background-image: url("/public/assets/sneakers-shop.png");
 }
@@ -48,6 +54,35 @@ a:hover {
 .sneakersShop-image_2 {
   background-image: url("/public/assets/sneakers-shop_2.png");
 }
+/* #endregion sneakers shop */
+
+/* #region stayin-touch */
+.stayinTouch-image {
+  background-image: url("/public/assets/stayin-touch.png");
+}
+.stayinTouch-image_1 {
+  background-image: url("/public/assets/stayin-touch_1.png");
+}
+.stayinTouch-image_2 {
+  background-image: url("/public/assets/stayin-touch_2.png");
+}
+/* #endregion stayin-touch */
+
+/* #region drinks collector */
+.drinksCollector-image {
+  background-image: url("/public/assets/drinks-collector.png");
+}
+.drinksCollector-image_1 {
+  background-image: url("/public/assets/drinks-collector_1.png");
+}
+.drinksCollector-image_2 {
+  background-image: url("/public/assets/drinks-collector_2.png");
+}
+/* #endregion drinks collector */
+
+/* #endregion projects images */
+
+/* #region color one */
 .primary-one-color {
   background-color: #18ffff;
 }
@@ -63,6 +98,9 @@ a:hover {
 .dark-one-color:hover {
   background-color: #18ffff;
 }
+/* #endregion color one */
+
+/* #region color two */
 .primary-two-color {
   background-color: #b2ff59;
 }
@@ -78,6 +116,44 @@ a:hover {
 .dark-two-color:hover {
   background-color: #b2ff59;
 }
+/* #endregion color two */
+
+/* #region color three */
+.primary-three-color {
+  background-color: #ffd54f;
+}
+.primary-three-color:hover {
+  background-color: #b29537;
+}
+.light-three-color {
+  background-color: #ffdd72;
+}
+.dark-three-color {
+  background-color: #b29537;
+}
+.dark-three-color:hover {
+  background-color: #ffd54f;
+}
+/* #endregion color three */
+
+/* #region color four */
+.primary-four-color {
+  background-color: #81c784;
+}
+.primary-four-color:hover {
+  background-color: #5a8b5c;
+}
+.light-four-color {
+  background-color: #9ad29c;
+}
+.dark-four-color {
+  background-color: #5a8b5c;
+}
+.dark-four-color:hover {
+  background-color: #81c784;
+}
+/* #endregion color four */
+
 /* #endregion modules */
 
 /* #region media queries */
@@ -108,7 +184,6 @@ a:hover {
     height: 80%;
     width: 50%;
   }
-
   .overflow-lg-auto {
     overflow: auto;
   }
