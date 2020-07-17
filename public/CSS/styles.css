@@ -108,6 +108,16 @@ a:hover {
     height: 80%;
     width: 50%;
   }
+
+  .overflow-lg-auto {
+    overflow: auto;
+  }
+  .w-lg-75 {
+    width: 75% !important;
+  }
+  .w-lg-50 {
+    width: 50% !important;
+  }
   /* #endregion modules */
 }
 
