@@ -7,10 +7,8 @@ body {
 
 a {
   text-decoration: none;
-  color: #fff;
 }
 a:hover {
-  color: #fff;
   text-decoration: none;
 }
 /* #endregion base */
@@ -20,14 +18,65 @@ a:hover {
 /* #endregion layout */
 
 /* #region modules */
-.full-percent-height {
-  height: 100%;
+.text-align-center {
+  text-align: center;
 }
-.full-percent-width {
+.image-properties {
+  background-size: cover;
+  background-position: top center;
+  height: 100%;
   width: 100%;
 }
-.align-center {
-  text-align: center;
+.newsweek-image {
+  background-image: url("/public/assets/Newsweek_clone.png");
+}
+.newsweek-image_1 {
+  background-image: url("/public/assets/Newsweek_clone_1.png");
+}
+.newsweek-image_2 {
+  background-image: url("/public/assets/Newsweek_clone_2.png");
+}
+.newsweek-image_3 {
+  background-image: url("/public/assets/Newsweek_clone_3.png");
+}
+.sneakersShop-image {
+  background-image: url("/public/assets/sneakers-shop.png");
+}
+.sneakersShop-image_1 {
+  background-image: url("/public/assets/sneakers-shop_1.png");
+}
+.sneakersShop-image_2 {
+  background-image: url("/public/assets/sneakers-shop_2.png");
+}
+.primary-one-color {
+  background-color: #18ffff;
+}
+.primary-one-color:hover {
+  background-color: #00cbcc;
+}
+.light-one-color {
+  background-color: #76ffff;
+}
+.dark-one-color {
+  background-color: #00cbcc;
+}
+.dark-one-color:hover {
+  background-color: #18ffff;
+}
+.primary-two-color {
+  background-color: #b2ff59;
+}
+.primary-two-color:hover {
+  background-color: #7ecb20;
+}
+.light-two-color {
+  background-color: #e7ff8c;
+}
+.dark-two-color {
+  background-color: #7ecb20;
+}
+.dark-two-color:hover {
+  background-color: #b2ff59;
 }
 /* #endregion modules */
 
@@ -37,19 +86,13 @@ a:hover {
   /* #endregion base */
 
   /* #region layout */
-
-  /* #region nav */
-  /* #endregion nav */
-
-  /* #region main */
-  /* #endregion main */
-
-  /* #region footer */
-  /* #endregion footer */
-
   /* #endregion layout */
 
   /* #region modules */
+  .image-md-size {
+    height: 50%;
+    width: 100%;
+  }
   /* #endregion modules */
 }
 
@@ -58,19 +101,13 @@ a:hover {
   /* #endregion base */
 
   /* #region layout */
-
-  /* #region nav */
-  /* #endregion nav */
-
-  /* #region main */
-  /* #endregion main */
-
-  /* #region footer */
-  /* #endregion footer */
-
   /* #endregion layout */
 
   /* #region modules */
+  .image-lg-size {
+    height: 80%;
+    width: 50%;
+  }
   /* #endregion modules */
 }
 
